@@ -1,0 +1,9 @@
+.navlist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-log{
+    height: 100px;
+    width: 100px;
+}
